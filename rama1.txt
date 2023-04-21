@@ -1,1 +1,2 @@
 Este es el contenido de rama1.txt
+Estos son los cambios en rama1.txt de la rama miramaNombre.
